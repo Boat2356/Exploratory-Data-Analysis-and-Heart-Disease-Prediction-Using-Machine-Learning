@@ -61,7 +61,7 @@ From above, there are no missing values, so we will move on to the next step.
 - An example of plotting a graph to find the relationship of variables and trends of data.
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/Boat2356/Exploratory-Data-Analysis-and-Heart-Disease-Prediction-Using-Machine-Learning/assets/140761543/d27c59e7-c1a2-4ed5-a3e0-230d548dcb26">
+  <img width="600" height="350" src="https://github.com/Boat2356/Exploratory-Data-Analysis-and-Heart-Disease-Prediction-Using-Machine-Learning/assets/140761543/929a1140-e34e-4af6-b595-a0781c8c3a70">
 </p>
 
 From above, the graph shows the relationship between the frequency of heart disease at different ages, with the x-axis being the age range and the y-axis being the frequency of people with and without heart disease, respectively.
